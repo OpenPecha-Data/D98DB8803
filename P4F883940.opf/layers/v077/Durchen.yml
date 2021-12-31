@@ -1,0 +1,10 @@
+id: be8cf582377e4029a37609b79c916a2e
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  b2f7d0e6e209448993323337e72bc4e2:
+    span:
+      start: 33993
+      end: 37696
+local_ids:
+  b2f7d0e6e209448993323337e72bc4e2: 200000
